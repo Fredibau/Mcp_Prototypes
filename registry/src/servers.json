@@ -1,0 +1,16 @@
+{
+  "weather": {
+    "description": "Provides current weather information for a specified city.",
+    "address": {
+      "command": "node",
+      "args": ["Mcp_Prototypes/weather/build/index.js"]
+    }
+  },
+  "booking": {
+    "description": "A service for managing hotel bookings.",
+    "address": {
+      "command": "node",
+      "args": ["Mcp_Prototypes/booking/build/index.js"]
+    }
+  }
+}
