@@ -1,5 +1,7 @@
 # MCP Server Prototypes
 
+![MCP Registry](resources/Mcp_registry.png)
+
 This directory contains several Model-Context-Protocol (MCP) server prototypes. Each subdirectory is a separate Node.js project.
 
 ## Prerequisites
